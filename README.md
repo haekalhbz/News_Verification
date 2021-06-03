@@ -2,6 +2,6 @@
 
 Project's Author:
 
-Haekal Febriansyah Ramadhan\n
-Fandi Aditya Putra\n
-Riri Fitri Sari\n
+1. Haekal Febriansyah Ramadhan
+2. Fandi Aditya Putra
+3. Riri Fitri Sari
