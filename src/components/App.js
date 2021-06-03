@@ -322,11 +322,6 @@ constructor(props) {
           <div className="row">
             <main role="main" className="col-lg-12 d-flex text-center">
               <div className="content mr-auto ml-auto">
-                <a
-                  href="http://www.dappuniversity.com/bootcamp"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
                   <img src={`https://ipfs.infura.io/ipfs/${this.state.memeHash}`} alt="News" />
                 </a>
                 <p>&nbsp;</p>
@@ -350,11 +345,6 @@ constructor(props) {
           <div className="row">
             <main role="main" className="col-lg-12 d-flex text-center">
               <div className="content mr-auto ml-auto">
-                <a
-                  href="http://www.dappuniversity.com/bootcamp"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
                   <img src={`https://ipfs.infura.io/ipfs/${this.state.memeHash2}`} alt="News" />
                 </a>
                 <p>&nbsp;</p>
@@ -378,11 +368,6 @@ constructor(props) {
           <div className="row">
             <main role="main" className="col-lg-12 d-flex text-center">
               <div className="content mr-auto ml-auto">
-                <a
-                  href="http://www.dappuniversity.com/bootcamp"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
                   <img src={`https://ipfs.infura.io/ipfs/${this.state.memeHash3}`} alt="News" />
                 </a>
                 <p>&nbsp;</p>
